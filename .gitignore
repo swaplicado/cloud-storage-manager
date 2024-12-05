@@ -1,0 +1,14 @@
+
+dependency-reduced-pom.xml
+target/classes/.netbeans_automatic_build
+target/classes/com/swaplicado/cloudstoragemanager/CloudStorageManager.class
+target/classes/com/swaplicado/config/ConfigLoader.class
+target/classes/com/swaplicado/data/CloudStorageFile.class
+target/classes/com/swaplicado/data/FileManager.class
+target/classes/com/swaplicado/data/StorageManagerException.class
+target/classes/com/swaplicado/main/Main.class
+target/CloudStorageManager-1-0.jar
+target/CloudStorageManager-1-0.zip
+target/maven-archiver/pom.properties
+target/original-CloudStorageManager-1-0.jar
+target/test-classes/.netbeans_automatic_build
