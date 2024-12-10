@@ -19,7 +19,7 @@ public class ConfigLoader {
     private Properties properties = new Properties();
 
     public ConfigLoader() {
-        String configFilePath = "config.properties";
+        String configFilePath = "cloudstorage.properties";
         try (InputStream input = new FileInputStream(configFilePath)) {
             // Carga el archivo de propiedades
             properties.load(input);
